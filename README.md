@@ -1,14 +1,14 @@
 ```# 📊 Portafolio de Ciencia de Datos e IA - IFTS 24
 
-**Estudiante:** Yapura Rafa  
-**Materia:** Desarrollo de Sistemas de Inteligencia Artificial / Técnicas de Programación I  
-**Institución:** Instituto de Formación Técnica Superior Nº 24  
+**Estudiante:** YAPURA, Rafa.-  
+**Materia:** Desarrollo de Sistemas de Inteligencia Artificial(DSIA) / 
+**Institución:** Instituto de Formación Técnica Superior Nº 24 _CABA. 
 
 ---
 
 ## 📂 Estructura del Repositorio
 
-```text
+```
 ifts24-ciencia-de-datos
 ├── 001-DeepNote```
 │   └── 001-DEEP NOTE_DSIA_TP Yapura.ipynb
