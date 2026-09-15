@@ -8,7 +8,7 @@
 
 ## 📂 Estructura del Repositorio
 
-```ARBOL
+L
 ifts24-ciencia-de-datos
 ├── 001-DeepNote```
 │   └── 001-DEEP NOTE_DSIA_TP Yapura.ipynb
